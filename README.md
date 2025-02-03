@@ -1,9 +1,5 @@
 # Fuzzy-Human-Action-based-Emotion-Recognition
 
-This is your README. READMEs are where you can communicate what your project is and how to use it.
-
-Write your name on line 6, save it, and then head back to GitHub Desktop.
-
 This is a emotion recognition through gesture and action series data, by using fuzzy tool to enhance the stgcn backbone model.
 
 The train.py and test.py are in the tools.
