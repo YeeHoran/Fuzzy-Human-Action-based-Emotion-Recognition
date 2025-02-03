@@ -1,0 +1,30 @@
+Affect Label,Pleasure,Arousal,Affect Label's index
+Alarmed,-7,7,0
+Afraid,-8,5,1
+Annoyed,-8,3,2
+Distressed,-9,2,3
+Frustrated,-8,1,4
+Tense,-5,8,5
+Angry,-7,6,6
+Miserable,-10,-4,7
+Sad,-9,-6,8
+Gloomy,-8,-6,9
+Depressed,-9,-8,10
+Bored,-7,-8,11
+Droopy,-6,-9,12
+Tired,-4,-10,13
+Sleepy,-2,-9,14
+Relaxed,3,-8,15
+Calm,5,-8,16
+Serene,6,-6,17
+Content,7,-6,18
+Satisfied,6,-7,19
+At ease,5,-7,20
+Pleased,7,-4,21
+Glad,9,-3,22
+Happy,9,1,23
+Delighted,8,4,24
+Aroused,2,8,25
+Astonished,3,9,26
+Excited,5,8,27
+Neutral,0,0,28

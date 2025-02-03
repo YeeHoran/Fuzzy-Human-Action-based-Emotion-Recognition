@@ -1,0 +1,8 @@
+Human-Action-Recognition-v1.0-train-test
+It is revised from pyskl: https://github.com/kennymckormick/pyskl It's main objective is to provide train and test code for human action recognition which is the next step after Human-Action-Recognition-v0.8(mainly for test).
+
+The project fold is named as "pyskl-main-2025012", and is under C:. To run it, the run config panel has something to set up. First, the train code is "C:/pyskl-main-20250122/tools/train.py", the run command line is "C:/pyskl-main-20250122/tools/j.py --launcher pytorch --validate", in which "j.py" is the stgcn++ model config file. Then, the working dir is "C:/pyskl-main-20250122/tools", which should be set in run config as well.
+
+ntu120_hrnet.pkl is larger than 100M, so can't be uploaded. but it could be found on https://github.com/kennymckormick/pyskl/blob/main/tools/data/README.md, which contains it.
+
+Additionally, the envs are: cuda11.8, cudnn9.1, python3.7. For env "pyskl", since it is revised for (1) running it on single GPU (2) data tranfer to GPU before setup to model (3) specific dataset related, such as in ntu120_hrnet, the keypoint shape is [person_num, frame_num, 17, 2), the frame_number should be asserted with keypoint.shape[1], which is keypoint.shape[0] by default, which should be revised. To accelarate implementation, it revised env pyskl directly, so the resulted pyskl is also uploaded to Baidu Netdisk: 通过网盘分享的文件：2. Human action recognition v1.0 train test 链接: https://pan.baidu.com/s/17KTSR160JmZmdsz3VhUHNA 提取码: a1mx --来自百度网盘超级会员v8的分享.

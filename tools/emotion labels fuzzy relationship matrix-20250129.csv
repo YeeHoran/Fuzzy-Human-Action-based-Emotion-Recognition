@@ -1,0 +1,30 @@
+﻿Affect Label,Valence,Arousal,Affect Label index
+Alarmed,-0.9,8.6,0
+Afraid,-4.1,7.6,1
+Annoyed,-4.36,6.3,2
+Distressed,-6.52,5.7,3
+Frustrated,-5.66,4.3,4
+Tense,-0.4,8.2,5
+Angry,-1.3,7.6,6
+Miserable,-8.92,-1.4,7
+Sad,-7.34,-3.7,8
+Gloomy,-7.98,-4.4,9
+Depressed,-7.38,-4.3,10
+Bored,-3.92,-6.9,11
+Droopy,-2.3,-8.8,12
+Tired,-0.5,-9.6,13
+Sleepy,0.24,-9.6,14
+Relaxed,6.72,-6.6,15
+Calm,6.6,-6.6,16
+Serene,7.66,-0.48,17
+Content,7.56,-5.6,18
+Satisfied,7.18,-6.2,19
+At ease,7.16,-5.8,20
+Pleased,8.34,-1,21
+Glad,8.8,-1.6,22
+Happy,8.2,1.2,23
+Delighted,6.66,3.6,24
+Aroused,2.7,8.8,25
+Astonished,3.2,8.4,26
+Excited,6.2,7.2,27
+Neutral,0,0,28
